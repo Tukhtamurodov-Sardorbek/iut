@@ -1,5 +1,5 @@
 # Week 2: Android Basics & UI with Jetpack Compose
-
+* Prof. Hong Jeong
 **Goal:** Understand the Android project ecosystem and master the fundamentals of declarative UI design using Jetpack Compose, the modern toolkit for building native Android interfaces.
 
 ---
