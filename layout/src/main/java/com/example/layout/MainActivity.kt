@@ -75,7 +75,7 @@ fun LayoutTeachingScreen() {
                     shadowElevation = 4.dp
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.hjeong),
+                        painter = painterResource(id = R.drawable.tukhtamurodov_sardor`),
                         contentDescription = "User Photo",
                         modifier = Modifier
                             .size(100.dp)
@@ -89,7 +89,7 @@ fun LayoutTeachingScreen() {
                 
                 Column {
                     Text(
-                        text = "Prof. Hong Jeong",
+                        text = "Tukhtamurodov Sardor U2010283",
                         style = MaterialTheme.typography.headlineSmall
                     )
                     Text(
